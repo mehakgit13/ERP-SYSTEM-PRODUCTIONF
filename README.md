@@ -2,11 +2,7 @@
 
 A complete **MERN Stack** ERP system with JWT authentication, role-based access control, and a full suite of business modules.
 
-## 🌐 Live Demo
 
-> **Frontend:** `https://your-erp-app.vercel.app`
-> **Backend API:** `https://your-erp-app.onrender.com`
-> **API Docs (Swagger):** `https://your-erp-app.onrender.com/api/docs`
 
 ---
 
